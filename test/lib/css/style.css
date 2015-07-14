@@ -1955,3 +1955,18 @@ display:table-cell;
 width: 75%;
 max-width: 90%;
 }
+
+
+div#header2 {
+height: 35px;
+background-color: #29B0C5;
+}
+
+#pheader2{
+margin-bottom: 25px;
+font-size: 16px;
+line-height: 24px;
+font-family: 'Lato', sans-serif;
+font-weight: bold;
+color: #FFFFFF;
+}
